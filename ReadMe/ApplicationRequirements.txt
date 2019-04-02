@@ -1,0 +1,8 @@
+Requirements
+1. Track games played and their outcome(who won).
+2. Multiple competitors play in the tournament.
+3. Create a tournament plan (who plays in what order).
+4. Schedule Games.
+5. A single loss eliminates a player.
+6. The last player standing is winner.
+

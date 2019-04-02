@@ -1,0 +1,29 @@
+The Application
+
+A Tournament Tracker that sets up a schedule for teams to play each other in a single elimination style matchups. 
+
+Useful for: 
+Ping pong tournaments
+Rec league playoffs
+3v3 basketball leagues
+Indoor soccer leagues
+Dodgeball leagues
+and much more!
+
+For example in America we just finished March madness. This is a single-elimination tournament played every March, 
+featuring 68 college basketball teams from the NCAA to win the national championship and 
+bragging rights for the year.
+
+Our client wants an application that can easily track tournaments like this. 
+
+The C# technologt includes:
+-Multi-form Winforms application
+-In-depth Class Library
+-Sql Database
+-Text File Storage
+-Dapper
+-Linq
+-Interfaces
+-Emailing from C#
+-Custom Events 
+-Advanced Debugging
